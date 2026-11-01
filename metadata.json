@@ -1,0 +1,6 @@
+{
+  "name": "ارائه هوش مصنوعی و راه‌های کسب درآمد",
+  "description": "پاورپوینت و پلتفرم پرزنتیشن حرفه‌ای هوش مصنوعی و راه‌های کسب درآمد، جدول تحلیلی، چک‌لیست و تولیدکننده ماکروی VBA و فایل PPTX",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
